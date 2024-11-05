@@ -1,5 +1,7 @@
-import Hero from "@/components/Hero"
+import Hero from "./Hero"
+import CustomButton from "./CustomButton"
 
 export {
-    Hero
+    Hero, 
+    CustomButton
 }
